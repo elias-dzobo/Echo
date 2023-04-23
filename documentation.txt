@@ -1,0 +1,16 @@
+AUTOMATING MY LIFE WITH PYTHON
+
+PROJECT ECHO - Echo is a voice assistant aiding my daily tasks by reducing the time taken doing routine tasks 
+
+TASKS 
+- speech journal [ interface with sqlite databse]
+- Crypto News Update 
+- Cryptocurrency coin updates 
+    daily prices
+    price comparisons (% changes from previous day)
+- Reminders
+    daily reminders [reset every 24 hours]
+    constant reminders [journal, leetcode]
+- To Do Lists 
+- Daily leetcode 
+- monitor pc performance 
